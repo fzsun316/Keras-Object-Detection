@@ -10,6 +10,6 @@ source ./venv/bin/activate
 sudo pip install keras
 ```
 
-You may need to switch to Keras backend: <https://keras.io/#switching-from-tensorflow-to-theano>
+To switch to Keras backend: <https://keras.io/#switching-from-tensorflow-to-theano>
 
 Code Reference: <http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/>
